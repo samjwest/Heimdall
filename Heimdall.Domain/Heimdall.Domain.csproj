@@ -2,8 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
-    <AssemblyName>Tavant.CL.Gateway.Domain</AssemblyName>
-    <RootNamespace>Tavant.CL.Gateway.Domain</RootNamespace>
+    <AssemblyName>Heimdall.Domain</AssemblyName>
+    <RootNamespace>Heimdall.Domain</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>
